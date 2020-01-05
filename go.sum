@@ -10,12 +10,8 @@ github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumC
 github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
 github.com/fsnotify/fsnotify v1.4.7 h1:IXs+QLmnXW2CcXuY+8Mzv/fWEsPGWxqefPtCP5CnV9I=
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
-github.com/go-pg/migrations v6.7.3+incompatible h1:mKayeWTNGhYA9P9wzZNSDoumJRhfB4fEmfAlxNTVwtA=
-github.com/go-pg/migrations v6.7.3+incompatible/go.mod h1:DtFiob3rFxsj0He8fye6Ta4eukFW80IfdY10zb2yH1c=
 github.com/go-pg/migrations/v7 v7.1.9 h1:j9gPouA7rg7vympGx6vIMyZtt+L+ZGjm1guuq/9d7U8=
 github.com/go-pg/migrations/v7 v7.1.9/go.mod h1:ycN6RqhOqa3km5KVLvRyESYP+lvqhrGYZxAIQ5HPPMM=
-github.com/go-pg/pg v8.0.6+incompatible h1:Hi7yUJ2zwmHFq1Mar5XqhCe3NJ7j9r+BaiNmd+vqf+A=
-github.com/go-pg/pg v8.0.6+incompatible/go.mod h1:a2oXow+aFOrvwcKs3eIA0lNFmMilrxK2sOkB5NWe0vA=
 github.com/go-pg/pg/v9 v9.0.0-beta.14/go.mod h1:T2Sr6bpTCOr2lUqOUMiXLMJqZHSUBKk1LdgSqjwhZfA=
 github.com/go-pg/pg/v9 v9.0.3/go.mod h1:Tm/Q3Vt6gdQOH6TTN1H/xLlIXc+Qrka7TZ6uREtu/eA=
 github.com/go-pg/pg/v9 v9.1.0 h1:yRXwMxYpbT3IxYZndQ2M2pTVGpV3ba9kbLcDVn51gew=
@@ -151,8 +147,6 @@ golang.org/x/tools v0.0.0-20191029041327-9cc4af7d6b2c/go.mod h1:b+2E5dAYhXwXZwtn
 golang.org/x/tools v0.0.0-20191029190741-b9c20aec41a5 h1:hKsoRgsbwY1NafxrwTs+k64bikrLBkAgPir1TNCj3Zs=
 golang.org/x/tools v0.0.0-20191029190741-b9c20aec41a5/go.mod h1:b+2E5dAYhXwXZwtnZ6UAqBI28+e2cm9otk0dWdXHAEo=
 golang.org/x/tools v0.0.0-20191125144606-a911d9008d1f/go.mod h1:b+2E5dAYhXwXZwtnZ6UAqBI28+e2cm9otk0dWdXHAEo=
-golang.org/x/tools v0.0.0-20191224055732-dd894d0a8a40 h1:UyP2XDSgSc8ldYCxAK735zQxeH3Gd81sK7Iy7AoaVxk=
-golang.org/x/tools v0.0.0-20191224055732-dd894d0a8a40/go.mod h1:TB2adYChydJhpapKDTa4BR/hXlZSLoq2Wpct/0txZ28=
 golang.org/x/tools v0.0.0-20200103221440-774c71fcf114 h1:DnSr2mCsxyCE6ZgIkmcWUQY2R5cH/6wL7eIxEmQOMSE=
 golang.org/x/tools v0.0.0-20200103221440-774c71fcf114/go.mod h1:TB2adYChydJhpapKDTa4BR/hXlZSLoq2Wpct/0txZ28=
 golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=

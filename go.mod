@@ -3,9 +3,7 @@ module github.com/eunkenlow/wedding-api
 go 1.13
 
 require (
-	github.com/go-pg/migrations v6.7.3+incompatible
 	github.com/go-pg/migrations/v7 v7.1.9
-	github.com/go-pg/pg v8.0.6+incompatible
 	github.com/go-pg/pg/v9 v9.1.0
 	github.com/go-playground/validator/v10 v10.0.1
 	github.com/kelseyhightower/envconfig v1.4.0
